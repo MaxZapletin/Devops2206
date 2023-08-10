@@ -1,0 +1,17 @@
+# print("Hello, World!")
+# print("Result: ", 5, 15, sep="", end="\n")
+print('second \\ \t \ l\ni\nn\ne')
+# print(5 + 5)
+# print("result:", 5 * 5)
+# print("result:", 5 ** 2)
+# print("result:", 5 ** 3)
+# print("result:", 5 // 3)
+print("result:", min(5, 6, 3, 4, -3, 5))
+print("result:", max(5, 6, 3, 4, -3, 5))
+print("result:", abs(-5))
+print("result:", pow(5, 3))
+print("result:", round(5 / 6))
+input("How old are you?: ")
+number = 5
+
+print(number)
