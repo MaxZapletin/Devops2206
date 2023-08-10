@@ -12,6 +12,8 @@ elif is_age_above_twentyfour and b == 2.5:
     print("blabla2")
 else:
     print("blabla")
+print("Max")
+print(1, 2, 3)
 
 if len(my_list) > 3:
     print("I have items")
