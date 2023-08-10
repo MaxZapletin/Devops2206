@@ -1,7 +1,7 @@
 print("Hello, World!")
 a = 445.1217
 b = 541234.17
-c = a + c
+c = a + d
 d = "test"
 e = True
 f = ["1", 2 , True, ["test", "test1"]]
